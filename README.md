@@ -1,2 +1,2 @@
-# new project
-this repo was created from local system
+# first portfolio 
+only used html and css
