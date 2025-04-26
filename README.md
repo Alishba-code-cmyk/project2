@@ -1,2 +1,2 @@
 # first portfolio 
-only used html and css
+portfolio website only used html and css
